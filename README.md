@@ -10,7 +10,7 @@ The .hdr files in this pack are in varying resolutions and are compatible with a
 
 ## Usage
 
-Interested in effectively using these HDRs in your Three.js projects? I've put together a step-by-step [YouTube tutorial](https://youtube-link) and provided a [Codepen template code](https://codepen-link) for you to start with.
+Interested in effectively using these HDRs in your Three.js projects? I've put together a step-by-step [YouTube tutorial](https://youtube.com/@miroxleon) and provided a [Codepen template code](https://codepen.io/miroleon/pen/dyQdzKq) for you to start with.
 
 ## Full Version
 
@@ -20,8 +20,10 @@ Enjoyed using these HDRs? Check out the full [Gradient HDR Pack](https://link-to
 
 Stay updated on new releases by following me on social media and subscribing to my mailing list:
 
-- [Twitter](https://twitter-link)
-- [Instagram](https://instagram-link)
-- [Mailing List](https://mailing-list-link)
+- [YouTube](https://youtube.com/@miroxleon)
+- [Instagram](https://www.instagram.com/miroxleon/)
+- [Twitter](https://twitter.com/miroxleon)
+- [Mailing List](https://miroleon.de/newsletter)
+
 
 Thank you for your support, and enjoy creating!
