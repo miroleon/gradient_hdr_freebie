@@ -2,11 +2,11 @@
 
 # Gradient HDR Pack Freebee
 
-Welcome to the **Gradient HDR Freebie Pack**! This repository provides a glimpse into the full [Gradient HDR Pack](https://link-to-gumroad-product) available on Gumroad. Here, you'll find two selected HDRs used in my own artworks, perfect for stylized renderings.
+Welcome to the **Gradient HDR Freebie Pack**! This repository provides a glimpse into the full [Gradient HDR Pack](https://link-to-gumroad-product) available on Gumroad. Here, you'll find two selected HDRs used in my own artworks, perfect for stylised renderings.
 
 ## About The HDRs
 
-The .hdr files in this pack are in varying resolutions, ensuring compatibility with a wide range of 3D applications. They're especially effective when used with reflective, chrome-like materials.
+The .hdr files in this pack are in varying resolutions and are compatible with a wide range of 3D applications. They're especially effective when used with reflective, chrome-like materials.
 
 ## Usage
 
@@ -15,10 +15,6 @@ Interested in effectively using these HDRs in your Three.js projects? I've put t
 ## Full Version
 
 Enjoyed using these HDRs? Check out the full [Gradient HDR Pack](https://link-to-gumroad-product) on Gumroad, which includes 27 unique HDRs. The full pack is available for a minimum price of €5, with an option to pay more if you wish to offer extra support.
-
-## Support
-
-Your purchase of the full pack comes with a 30-day money-back guarantee. If you're not completely satisfied, we'll refund your money, no questions asked.
 
 ## Connect
 
