@@ -1,5 +1,3 @@
-# WIP
-
 ![Gradient HDR Header](./Gradient_HDR_Header.jpg)
 
 # Gradient HDR Pack Freebee
@@ -12,7 +10,7 @@ The .hdr files in this pack are in varying resolutions and are compatible with a
 
 ## Usage
 
-Interested in effectively using these HDRs in your Three.js projects? I've put together a step-by-step [YouTube tutorial](https://youtube.com/@miroxleon) and provided a [Codepen template code](https://codepen.io/miroleon/pen/dyQdzKq) for you to start with.
+Interested in effectively using these HDRs in your Three.js projects? I've put together a step-by-step [YouTube tutorial](https://youtu.be/Muq-VpaPzoE) and provided a [Codepen template code](https://codepen.io/miroleon/pen/dyQdzKq) for you to start with.
 
 ## Full Version
 
