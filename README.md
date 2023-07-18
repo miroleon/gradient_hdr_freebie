@@ -2,7 +2,7 @@
 
 # Gradient HDR Pack Freebee
 
-Welcome to the **Gradient HDR Freebie Pack**! This repository provides a glimpse into the full [Gradient HDR Pack](https://miroelon.gumroad.com/l/gradient_hdr_pack) available on Gumroad. Here, you'll find two selected HDRs used in my own artworks, perfect for stylised renderings.
+Welcome to the **Gradient HDR Freebie Pack**! This repository provides a glimpse into the full [Gradient HDR Pack](https://miroleon.gumroad.com/l/gradient_hdr_pack) available on Gumroad. Here, you'll find two selected HDRs used in my own artworks, perfect for stylised renderings.
 
 ## About The HDRs
 
@@ -14,7 +14,7 @@ Interested in effectively using these HDRs in your Three.js projects? I've put t
 
 ## Full Version
 
-Enjoyed using these HDRs? Check out the full [Gradient HDR Pack](https://miroelon.gumroad.com/l/gradient_hdr_pack) on Gumroad, which includes 27 unique HDRs. The full pack is available for a minimum price of €5, with an option to pay more if you wish to offer extra support.
+Enjoyed using these HDRs? Check out the full [Gradient HDR Pack](https://miroleon.gumroad.com/l/gradient_hdr_pack) on Gumroad, which includes 27 unique HDRs. The full pack is available for a minimum price of €5, with an option to pay more if you wish to offer extra support.
 
 ## Connect
 
