@@ -1,0 +1,62 @@
+ /######## /##                           /##             /##     /##                           /##
+|__  ##__/| ##                          | ##            |  ##   /##/                          | ##
+   | ##   | #######   /######  /####### | ##   /##       \  ## /##/   /######  /##   /##      | ##
+   | ##   | ##__  ## |____  ##| ##__  ##| ##  /##/        \  ####/   /##__  ##| ##  | ##      | ##
+   | ##   | ##  \ ##  /#######| ##  \ ##| ######/          \  ##/   | ##  \ ##| ##  | ##      |__/
+   | ##   | ##  | ## /##__  ##| ##  | ##| ##_  ##           | ##    | ##  | ##| ##  | ##          
+   | ##   | ##  | ##|  #######| ##  | ##| ## \  ##          | ##    |  ######/|  ######/       /##
+   |__/   |__/  |__/ \_______/|__/  |__/|__/  \__/          |__/     \______/  \______/       |__/
+
+Hello and thank you for downloading my Gradient HDR Freebie! This Freebie provides a glimpse into the full Gradient HDR Pack available on Gumroad. Here, you'll find two selected HDRs used in my own artworks, perfect for stylised renderings.
+
+https://miroelon.gumroad.com/l/gradient_hdr_pack
+
+This collection of HDRs is designed to add unique and vibrant lighting to your Three.js projects. As a creative, you're free to use these files in any project you wish. Let your imagination run wild and add a splash of color to your digital landscapes.
+
+::: Please Note :::
+These HDRs are provided for your individual use and are not to be resold or redistributed in any form.
+
+===================================
+::: How to Use HDRs in Three.js? :::
+===================================
+
+To ensure that you get the most out of these HDRs, I've put together a step-by-step tutorial on YouTube. This tutorial will guide you on how to effectively use these HDRs in your Three.js projects. Here's the link to the tutorial:
+
+https://youtu.be/Muq-VpaPzoE
+
+=========================
+::: Codepen Template Code :::
+=========================
+
+To make things even simpler, I've created a Codepen with a template code showing the HDR use with Three.js. This template can be an excellent starting point for your projects. Feel free to modify and adapt it to your needs. Here's the link to the Codepen:
+
+https://codepen.io/miroleon/pen/dyQdzKq
+
+I'm excited to see what you'll create using these Gradient HDRs. If you wish to share your work, need any assistance, or have any questions, feel free to contact me.
+
+I would also appreciate it if you could leave a review on the product page. Your feedback helps me improve and create more resources for you.
+
+::::::::::::::::::::::::::::::::::::
+::: Connect with me on social media :::
+::::::::::::::::::::::::::::::::::::
+
+https://youtube.com/@miroxleon
+https://www.instagram.com/miroxleon/
+https://twitter.com/miroxleon
+https://miroleon.de/links
+
+Don't forget to subscribe to my mailing list for exclusive content and updates about upcoming releases.
+
+https://miroleon.de/newsletter
+
+Thank you once again for your support, and enjoy creating!
+
+
+               /##      /## /##                           /##                                    
+              | ###    /###|__/                          | ##                                    
+              | ####  /#### /##  /######   /######       | ##        /######   /######  /####### 
+ /######      | ## ##/## ##| ## /##__  ## /##__  ##      | ##       /##__  ## /##__  ##| ##__  ##
+|______/      | ##  ###| ##| ##| ##  \__/| ##  \ ##      | ##      | ########| ##  \ ##| ##  \ ##
+              | ##\  # | ##| ##| ##      | ##  | ##      | ##      | ##_____/| ##  | ##| ##  | ##
+              | ## \/  | ##| ##| ##      |  ######/      | ########|  #######|  ######/| ##  | ##
+              |__/     |__/|__/|__/       \______/       |________/ \_______/ \______/ |__/  |__/
