@@ -1,6 +1,6 @@
 ![Gradient HDR Header](./Gradient_HDR_Header.jpg)
 
-# Gradient HDR Pack Freebee
+# Gradient HDR Pack Freebie
 
 Welcome to the **Gradient HDR Freebie Pack**! This repository provides a glimpse into the full [Gradient HDR Pack](https://miroleon.gumroad.com/l/gradient_hdr_pack) available on Gumroad. Here, you'll find two selected HDRs used in my own artworks, perfect for stylised renderings.
 
