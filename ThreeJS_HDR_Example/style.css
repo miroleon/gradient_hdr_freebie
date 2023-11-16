@@ -2,18 +2,55 @@
 
 html, body {
   margin:0;
-  overflow: hidden;
+  overflow-x: hidden;
   background-color: #11151c;
+}
+/* NAVBAR---------------------------------- */
+/* Estilos generales para el Navbar */
+
+.navbar {
+  background-color: transparent; /* Color de fondo del Navbar */
+  color: rgba(255, 255, 255, 0.5); /* Color del texto */
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+  align-items: center;
+  padding: 10px 20px;
+  position: fixed; /* Hacer que el Navbar esté fijo en la parte superior */
+  width: 100%; /* Ocupar todo el ancho de la pantalla */
+  z-index: 100; /* Para asegurarse de que esté encima de otros elementos */
+}
+
+/* Estilos para el logotipo */
+.logo img {
+  width: 50px; /* Ajusta el tamaño del logotipo según tus necesidades */
+}
+
+/* Estilos para los enlaces del Navbar */
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 20px; /* Espacio entre los enlaces */
+}
+
+.nav-links li {
+  font-size: 18px; /* Tamaño del texto de los enlaces */
+}
+
+.nav-links a {
+  text-decoration: none; /* Elimina la subrayado de los enlaces */
+  color: rgba(255, 255, 255, 0.5); /* Color del texto de los enlaces */
   font-family: 'Open Sans', sans-serif;
-  color: rgba(255, 255, 255, 0.5);
-  text-align: center;
 }
 
-p{
-  font-size: 0.75rem;
-  width: 300px;
+/* Cambio de color al pasar el cursor sobre los enlaces */
+.nav-links a:hover {
+  transform: scale(1.2);
+  color: rgba(255, 255, 255, 1); /* Color diferente al pasar el cursor */
+  filter: drop-shadow(0px 0px 10px rgba(255, 255, 255, 0.9));
 }
 
+/* ---------------------------------------------- */
 
 a {
     color: rgba(255, 255, 255, 0.5);
@@ -21,14 +58,17 @@ a {
     transition: all 0.5s ease-in-out;
 }
 
-a:hover{
+a:hover {
   filter: drop-shadow(0px 0px 10px rgba(255, 255, 255, 0.9));
 }
 
-#canvas{
-  height: 100%;
-  width: 100%;
-  z-index: 0;
+.canvas-container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  transition: ease-in-out 0.1s;
 }
 
 .text-container{
@@ -36,23 +76,29 @@ a:hover{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    top: 5%;
-    height: 90%;
+    
+    top: 10%;
+    height: 80%;
     width: 100%;
     position: fixed;
     left: 0;
-    z-index: 1;
+    z-index: 2;
+    transition: ease-in-out 0.5s;
 }
 
 .title{
+  font-family: 'Open Sans', sans-serif;
   font-size: 0.5rem;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 0.3rem;
   font-weight: 500;
+  color: rgba(255, 255, 255, 0.5);
+  z-index: 2;
 }
 
 .socials{
+    
 }
 
 .socials svg{
@@ -64,4 +110,111 @@ a:hover{
 .socials svg:hover{
     transform: scale(1.2);
   filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 1));
+}
+
+.scroll-area{
+  height: 500vh;
+}
+
+.more-content{
+  position: relative;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
+  text-align: center;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.5);
+  height: 100vh;
+  padding: 0 10% 0 10%;
+  z-index: 3;
+}
+
+.button {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
+  font-weight: 900;
+  position: relative;
+  overflow: hidden;
+  height: 3rem;
+  padding: 0 2rem;
+  border-radius: 1.5rem;
+  background: #3d3a4e;
+  background-size: 400%;
+  color: rgba(255, 255, 255, 0.5);
+  border: none;
+  cursor: pointer;
+}
+
+.button:hover::before {
+  transform: scaleX(1);
+}
+
+.button-content {
+  position: relative;
+  z-index: 1;
+}
+
+.button::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: scaleX(0);
+  transform-origin: 0 50%;
+  width: 100%;
+  height: inherit;
+  border-radius: inherit;
+  background: linear-gradient(
+    82.3deg,
+    rgba(150, 93, 233, 1) 10.8%,
+    rgba(99, 88, 238, 1) 94.3%
+  );
+  transition: all 0.475s;
+}
+.red{
+  margin-top: 80px;
+}
+
+
+@keyframes show {
+  from {
+    opacity: 0;
+    scale: 25%;
+  }
+  to {
+    opacity: 1;
+    opacity: 100%;
+  }
+}
+
+#canva {
+  
+  view-timeline-name: --image;
+  view-timeline-axis: block;
+
+  animation-timeline: --image;
+  animation-name: show;
+  animation-range: entry 25% cover 30%;
+  animation-fill-mode: both;
+ 
+  z-index: -1;
+}
+#containe, #canva {
+  
+  
+  width: 350px;
+  
+  
+}
+#containe p{
+  position: relative;
+  bottom:  460px;
+  z-index: 1;
+}
+
+.text {
+  position: relative;
+  bottom:  460px;
+  z-index: 1;
+
+  border: 1px solid rgba(255, 255, 255, 0.5);
 }
